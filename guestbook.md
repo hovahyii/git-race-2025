@@ -14,7 +14,7 @@ Muhammad Hafizuddin Hakimi
 - Ahmad Syazwan (@ahmadsyazwan8)
 - Gregory Hong (@BlueSoul2003)
 - Wong Qi Heng (@WongQiHeng06)
----
+- Aidil Farhan (@farhanaidil2026-ui)
 
 ## How to Participate
 
