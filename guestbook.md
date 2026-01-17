@@ -1,17 +1,20 @@
 # 📝 Git Race 2025 Guestbook
 
 Welcome racers! Add your name below to join the race! 🏁
+Muhammad Hafizuddin Hakimi
 
 ---
 
 ## 🏆 Participants
 
 <!-- Add your name below this line! Format: - Your Name (@github-username) -->
-
+- Wong Li Hong (@wonglihong)
 - Hovah Yii (@hovahyii) - 🎯 Workshop Instructor
-
 ---Koay Yeun Zheng (@KoayYZ) - Student --> Hello world!
-
+- Ahmad Syazwan (@ahmadsyazwan8)
+- Gregory Hong (@BlueSoul2003)
+- Wong Qi Heng (@WongQiHeng06)
+---
 
 ## How to Participate
 
