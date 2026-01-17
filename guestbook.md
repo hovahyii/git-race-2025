@@ -9,7 +9,6 @@ Welcome racers! Add your name below to join the race! 🏁
 <!-- Add your name below this line! Format: - Your Name (@github-username) -->
 
 - Hovah Yii (@hovahyii) - 🎯 Workshop Instructor
-- Aidil Farhan (@farhanaidil2026-ui)
 
 ---
 
